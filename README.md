@@ -1,6 +1,8 @@
 # BrainMeld
 Can you de-obfuscate this code step by step?
 __ __
+> Note: May only be executable on linux systems. 
+
 
 <br>
 <br>
